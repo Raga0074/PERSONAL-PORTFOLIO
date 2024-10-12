@@ -8,51 +8,51 @@ function Skills() {
         
         <div className='card block mb-9'>
           <p className='heading mb-9'>REACT</p>
-          <img className='mb-5' loading='eager' src='src/assets/react.svg'/></div>
+          <img className='mb-5' loading='eager' src='react.svg'/></div>
           
           <div className='card mb-8'>
             <p className='heading mb-9'>TAILWIND</p>  
-            <img className='mb-5' loading='lazy'  src='src/assets/tailwind.svg'/></div>
+            <img className='mb-5' loading='lazy'  src='tailwind.svg'/></div>
             
             <div className='card mb-8'>
               <p className='heading mb-9'>RUST</p>  
-              <img className='mb-5' loading='lazy' src='/src/assets/RUST.SVG'/></div>
+              <img className='mb-5' loading='lazy' src='rust.svg'/></div>
               
               <div className='card mb-8'>
                 <p className='heading mb-5'>CSS</p> 
-                <img className='mb-5' loading='lazy' src='/src/assets/css3.svg'/></div>
+                <img className='mb-5' loading='lazy' src='css3.svg'/></div>
                 
                 <div className='card mb-8'>
                   <p className='heading mb-9'>TSX</p>  
-                  <img className='mb-5' loading='lazy' src='/src/assets/typescript.svg'/></div>
+                  <img className='mb-5' loading='lazy' src='typescript.svg'/></div>
                   
                   <div className='card mb-8'>
                     <p className='heading mb-9'>JS</p>  
-                    <img className='mb-5' loading='lazy' src='/src/assets/js.svg'/></div>
+                    <img className='mb-5' loading='lazy' src='js.svg'/></div>
                     
                     <div className='card mb-8'>
                       <p className='heading mb-9'>MYSQL</p>  
-                      <img className='mb-5' loading='lazy' src='/src/assets/mysql.svg'/></div>
+                      <img className='mb-5' loading='lazy' src='mysql.svg'/></div>
                       
                       <div className='card mb-8'>
                         <p className='heading mb-9'>HTML5</p>  
-                        <img className='mb-5' loading='lazy' src='/src/assets/html.svg'/></div>
+                        <img className='mb-5' loading='lazy' src='html.svg'/></div>
                         
                         <div className='card mb-8'>
                           <p className='heading mb-9'>EXCEL</p>  
-                          <img className='mb-5' loading='lazy' src='/src/assets/excel.svg'/></div>
+                          <img className='mb-5' loading='lazy' src='excel.svg'/></div>
                           
                           <div className='card mb-8'>
                             <p className='heading mb-9'>CANVA</p>  
-                            <img className='mb-5' loading='lazy' src='/src/assets/canva.svg'/></div>
+                            <img className='mb-5' loading='lazy' src='canva.svg'/></div>
                             
                             <div className='card mb-8'>
                               <p className='heading mb-9'>FIGMA</p>  
-                              <img  className='mb-5' loading='lazy' src='/src/assets/figma.svg'/></div>
+                              <img  className='mb-5' loading='lazy' src='figma.svg'/></div>
                               
                               <div className='card mb-5'>
                                 <p className='heading mb-7'>POWER BI</p>  
-                                <img  className='' loading='lazy' src='/src/assets/power bi.svg'/></div>`
+                                <img  className='' loading='lazy' src='power bi.svg'/></div>`
 
       
       </div>

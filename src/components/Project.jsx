@@ -6,7 +6,7 @@ function Project() {
       <h1 className='honk flex flex-col mb-5 text-left ml-28 text-4xl '>Projects:</h1>
        <a href='https://main--carsrental8.netlify.app/'><article className="article-wrapper">
         <div className="rounded-lg container-project">
-          <img className='rounded-lg object-fit' src='src/assets/projects/rental.png'/>
+          <img className='rounded-lg object-fit' src='rental.png'/>
         </div>
         <div className="project-info">
           <div className="flex-pr">
@@ -46,7 +46,7 @@ function Project() {
 
       <a href='https://github.com/Raga0074/Final-Year-Project'><article className="article-wrapper">
         <div className="rounded-lg container-project">
-          <img src='src/assets/projects/final yr.png'/>
+          <img src='final yr.png'/>
         </div>
         <div className="project-info">
           <div className="flex-pr">
@@ -87,7 +87,7 @@ function Project() {
 
       <a href='https://sundowm-studio-landing-page.vercel.app/'><article className="article-wrapper">
         <div className="rounded-lg container-project">
-          <img src='src/assets/projects/sundown.png'/>
+          <img src='sundown.png'/>
         </div>
         <div className="project-info">
           <div className="flex-pr">
@@ -128,7 +128,7 @@ function Project() {
 
       <a href='https://github.com/Raga0074/iPhone'><article className="article-wrapper">
         <div className="rounded-lg container-project">
-          <img src='src/assets/projects/iphone.png'/>
+          <img src='iphone.png'/>
         </div>
         <div className="project-info">
           <div className="flex-pr">
