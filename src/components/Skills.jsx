@@ -8,7 +8,7 @@ function Skills() {
         
         <div className='card block mb-9'>
           <p className='heading mb-9'>REACT</p>
-          <img className='mb-5' loading='eager' src='/src/assets/react.svg'/></div>
+          <img className='mb-5' loading='eager' src='./src/assets/react.svg'/></div>
           
           <div className='card mb-8'>
             <p className='heading mb-9'>TAILWIND</p>  
