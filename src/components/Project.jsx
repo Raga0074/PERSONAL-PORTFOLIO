@@ -128,7 +128,7 @@ function Project() {
 
       <a href='https://github.com/Raga0074/iPhone'><article className="article-wrapper">
         <div className="rounded-lg container-project">
-          <img src='iphone.png'/>
+          <img src='iPhone.png'/>
         </div>
         <div className="project-info">
           <div className="flex-pr">
